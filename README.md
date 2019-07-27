@@ -21,6 +21,7 @@ A running list of open source courses / books in `R`
 | Computational and Inferential Thinking | Adhikari & DeNero | [course](https://www.inferentialthinking.com/chapters/intro); [github](https://github.com/data-8/textbook) |
 | MSc Conversion in Psychological Studies/Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-conv-f2f/); [github](https://github.com/PsyTeachR/msc-conv-f2f) |
 | Data Skills for Reproducible Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-data-skills/); [github](https://github.com/PsyTeachR/msc-data-skills) |
+| EMSE 6574: Programming for Analytics | [George Washington U., EMSE Dept.](https://www.emse.seas.gwu.edu/) | [course](https://emse6574-gwu.github.io/); [github](https://github.com/emse6574-gwu) |
 
 # Repos of repos
 
