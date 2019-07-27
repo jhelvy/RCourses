@@ -21,8 +21,6 @@ A running list of open source courses / books in `R`
 | Computational and Inferential Thinking | Adhikari & DeNero | [course](https://www.inferentialthinking.com/chapters/intro); [github](https://github.com/data-8/textbook) |
 | MSc Conversion in Psychological Studies/Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-conv-f2f/); [github](https://github.com/PsyTeachR/msc-conv-f2f) |
 | Data Skills for Reproducible Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-data-skills/); [github](https://github.com/PsyTeachR/msc-data-skills) |
-| name | author | [course](); [github]() |
-| name | author | [course](); [github]() |
 
 # Repos of repos
 
