@@ -5,6 +5,8 @@ A running list of open source courses / books in `R`
 
 | Course Name | Author | Links |
 | --- | --- | --- |
+| EMSE Programming for Analytics | [George Washington U., EMSE Dept.](https://www.emse.seas.gwu.edu/) | [course](https://emse-p4a-gwu.github.io/) |
+| EMSE Exploratory Data Analysis | [George Washington U., EMSE Dept.](https://www.emse.seas.gwu.edu/) | [course](https://emse-eda-gwu.github.io/) |
 | STAT 545 | U. of of British Columbia | [course](http://stat545.com/); [github](https://github.com/STAT545-UBC) |
 | ES218: Exploratory Data Analysis in R | Manny Gimond | [course](https://mgimond.github.io/ES218/index.html); [github](https://github.com/mgimond/ES218) |
 | RMarkdown for Scientists | Nicholas Tierney | [course](https://rmd4sci.njtierney.com/); [github](https://github.com/njtierney/rmd4sci) |
@@ -21,9 +23,10 @@ A running list of open source courses / books in `R`
 | Computational and Inferential Thinking | Adhikari & DeNero | [course](https://www.inferentialthinking.com/chapters/intro); [github](https://github.com/data-8/textbook) |
 | MSc Conversion in Psychological Studies/Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-conv-f2f/); [github](https://github.com/PsyTeachR/msc-conv-f2f) |
 | Data Skills for Reproducible Science | [U. of Glasgow School of Psychology](https://psyteachr.github.io/) | [course](https://psyteachr.github.io/msc-data-skills/); [github](https://github.com/PsyTeachR/msc-data-skills) |
-| EMSE 6574: Programming for Analytics | [George Washington U., EMSE Dept.](https://www.emse.seas.gwu.edu/) | [course](https://emse6574-gwu.github.io/); [github](https://github.com/emse6574-gwu) |
 
 # Repos of repos
+
+Link to other pages like this that have links to many other classes
 
 | Name | Author | Links |
 | --- | --- | --- |
